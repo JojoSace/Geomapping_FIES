@@ -11,6 +11,6 @@ ShapeFile Source: https: https://github.com/altcoder/philippines-psgc-shapefiles
 Download "Region.zip" and extract in the same folder as "geomapping.ipynb"
 
 ## How to Run
-Run "geomapping.ipynb" using Visual Studios Code or any similar programs
+Run "geomapping.ipynb" using Visual Studios Code or any similar application that supports jupyter notebook
 
 ## THANK YOU!
