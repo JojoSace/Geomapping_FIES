@@ -6,5 +6,5 @@ Pandas: !pip install pandas<br>
 Matplotlib: !pip install matplolib<br>
 Geopandas: !pip install geopandas<br>
 
-ShapeFile Source: https://github.com/altcoder/philippines-psgc-shapefiles/blob/879ebd582acf459fbff54208aa8787351eae6d23/datasets/SHAPEFILES/Regions.zip <br>
+ShapeFile Source: https: https://github.com/altcoder/philippines-psgc-shapefiles/tree/879ebd582acf459fbff54208aa8787351eae6d23/datasets/SHAPEFILES <br>
 Download "Region.zip" and extract in the same folder as "geomapping.ipynb"
